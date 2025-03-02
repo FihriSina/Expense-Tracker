@@ -49,7 +49,7 @@ This project is licensed under the MIT License.
 
 
 
-# Expense Tracker
+# Gider Takipçisi
 
 Bu Python programı, kişisel giderlerinizi takip etmenize yardımcı olur. Giderleri kategoriye göre ekleyebilir, listeleyebilir, toplam giderinizi hesaplayabilir ve belirli bir kategoriye göre filtreleme yapabilirsiniz. Bu proje, **freeCodeCamp** platformu üzerinde yapılan bir çalışmanın parçasıdır.
 
